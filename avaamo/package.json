@@ -1,0 +1,15 @@
+{
+  "name": "occurrences",
+  "version": "1.0.0",
+  "description": "Find occurrences of word in file",
+  "main": "index.js",
+  "dependencies": {
+    "create-new-project": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tirumal Sutrave",
+  "license": "ISC"
+}
